@@ -1,0 +1,57 @@
+*{
+
+}
+
+body {
+
+}
+
+.main {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.title-center {
+    text-align: center;
+}
+
+#banner {
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.second {
+    font-size: 20px;
+}
+
+.title-header {
+    padding-left: 20px;
+}
+
+
+.itens {
+    font-style: italic;
+}
+
+.gifts {
+    background: #ffffff;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.image-gift {
+    width: 50%;
+}
